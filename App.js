@@ -8,7 +8,7 @@ export default function App() {
   const [feed, setFeed] = useState([
     {
       id: '1',
-      nome: 'Lucas Silva',
+      nome: 'William Whang',
       descricao: 'Mais um dia de muitos bugs :)',
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png',
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto1.png',
@@ -17,7 +17,7 @@ export default function App() {
     },
     {
       id: '2',
-      nome: 'Matheus',
+      nome: 'Steve Jobs',
       descricao: 'Isso sim é ser raiz!!!!!',
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil2.png',
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto2.png',
@@ -26,7 +26,7 @@ export default function App() {
     },
     {
       id: '3',
-      nome: 'Jose Augusto',
+      nome: 'Mark Zuckerberg',
       descricao: 'Bora trabalhar, hoje estou começando em um projeto novo aqui no sujeito, desde o backend ao frontend',
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil3.png',
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto3.png',
@@ -35,7 +35,7 @@ export default function App() {
     },
     {
       id: '4',
-      nome: 'Gustavo Henrique',
+      nome: 'Bill Gates',
       descricao: 'Isso sim que é TI!',
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png',
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto4.png',
@@ -44,7 +44,7 @@ export default function App() {
     },
     {
       id: '5',
-      nome: 'Guilherme',
+      nome: 'Elon Musk',
       descricao: 'Boa tarde galera do insta...',
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil2.png',
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto5.png',
